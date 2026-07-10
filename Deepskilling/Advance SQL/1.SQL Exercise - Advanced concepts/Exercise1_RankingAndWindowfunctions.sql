@@ -1,5 +1,4 @@
-[10:08 pm, 20/06/2026] Prathyusha✨: ex-1
-[10:10 pm, 20/06/2026] Prathyusha✨: CREATE DATABASE IF NOT EXISTS CognizantSQL;
+CREATE DATABASE IF NOT EXISTS CognizantSQL;
 USE CognizantSQL;
 CREATE TABLE Employees (
     EmployeeID INT PRIMARY KEY,
